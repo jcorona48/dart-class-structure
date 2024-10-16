@@ -5,9 +5,3 @@ version: 1.0.0
 
 environment:
   sdk: ^3.5.3
-
-# Add regular dependencies here.
-dependencies:
-  dotenv: ^4.2.0
-  http: ^1.2.2
-  # path: ^1.8.0
