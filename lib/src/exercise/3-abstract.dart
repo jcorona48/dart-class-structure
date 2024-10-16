@@ -1,5 +1,5 @@
 import '../utils/utils.dart' show printTitle, printDivider;
-import '../classes/Dog.dart' show Dog;
+import '../classes/Animal/Dog.dart' show Dog;
 void main() {
     printDivider();
     printTitle('Exercise 3');
